@@ -30,6 +30,12 @@ In your solution, focus on correctness. The performance of your solution will
 not be the focus of the assessment.
 
 */
+
+/**
+ * @author Subhodip Mukherjee
+ *
+ */
+
 public class LongestPasswordSubstring {
 
 	public static void main(String[] args) {
