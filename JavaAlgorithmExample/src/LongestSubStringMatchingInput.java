@@ -1,4 +1,7 @@
-
+/*
+ * Find subarray with given sum
+ * Given an unsorted array of nonnegative integers, find LONGEST continous subarray which adds to a given number.
+ */
 public class LongestSubStringMatchingInput {
 
 	public static void main(String[] args) {
